@@ -1,0 +1,17 @@
+D:\University\后端\ProductInformation\ProductInformation\bin\Debug\ProductInformation.exe
+D:\University\后端\ProductInformation\ProductInformation\bin\Debug\ProductInformation.exe.config
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmAbout.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmChangePwd.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmEditProduct.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmEditSort.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmPIM.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmPIMain.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmLogin.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.frmPSort.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.Properties.Resources.resources
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.csproj.GenerateResource.cache
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.csproj.CoreCompileInputs.cache
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.exe
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.pdb
+D:\University\后端\ProductInformation\ProductInformation\bin\Debug\ProductInformation.pdb
+D:\University\后端\ProductInformation\ProductInformation\obj\Debug\ProductInformation.csproj.AssemblyReference.cache
